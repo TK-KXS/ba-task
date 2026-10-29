@@ -1,0 +1,15 @@
+# Machine-local CodeArts state. Everything else in .codeartsdoer/ (skills,
+# rules, commands, agent-team roles and scenes, mcp settings, deliverable
+# templates) is the team's shared configuration and is committed.
+.codebase/
+node_modules/
+package-lock.json
+bun.lock
+mem-exp-config.json
+agent-team/session/
+agent-team/log/
+review/
+codeartscheck/
+
+# Generated deliverables: keep the folder structure but ignore the produced files
+deliverables/**/input.md

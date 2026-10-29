@@ -1,0 +1,13 @@
+tk-ba-analysis=true
+tk-architecture-rules=true
+tk-platform-tools=true
+tk-doc-a4-confidential=true
+tk-ba-scope=true
+tk-diagram-standards=true
+tk-ba-requirements=true
+tk-ba-user-stories=true
+tk-ba-commercial-awareness=true
+tk-process-modelling=true
+tk-solution-architecture=true
+tk-ba-functional-spec=true
+tk-ba-technical-requirements=true
